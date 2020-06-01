@@ -186,5 +186,8 @@ every month during growing season.
 ### Problems
 Symptom: yellow spots on leaves with brown or black spots. Cause: Fungal infection. Replace plant.
 
+### Harvest
+Do not harvest more than 1/3 of the plant at a time. If stems are long and leaves are getting shorter then cut back by 1/3 to 1/2. Cut stem right above bud.
+
 ### Toxicity
 Non-toxic.
