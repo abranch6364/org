@@ -100,7 +100,7 @@ Loose, well-draining potting mix. Loamy soil amended with peat moss.
 Repot infrequently (2-3 years). Grows better when root-bound in small pots. Do not repot into a pot much larger than the old one.
 
 ### Water
-Wait until top 1 or 2 inches of soil is dry. Water shoiuld not have significant amounts of salt or fluoride. Use distilled or non-fluorinated water.
+Wait until top 1 or 2 inches of soil is dry. Water shoiuld not have significant amounts of salt or fluoride. Use distilled or non-fluorinated water. A Reverse Osmosis filter removes fluoride.
 
 ### Humidity
 Regular household humidity. Mist in dry conditions.
