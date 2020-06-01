@@ -126,7 +126,65 @@ Toxic to cats.
 Lower leaves die as it grows.
 
 ## Aeonium Kiwi
+### Sunlight
+Full to partial direct or indirect sunlight
+### Soil
+Well draining soil
+
+### pH
+6 to 7
+
+### Pot/Repotting
+Repot at the end of summer.
+
+### Water
+Let top few inches of soil dry between watering. Little to no water in the summer.
+
+### Humidity
+Dry
+
+### Temperature
+65 to 75 degrees. Lowest of 20 degrees.
+
+### Food
+Half-strength liquid fertilizer monthly during growing season.
+
+### Problems
+Symptom: Droopy and leaves shriveled. Cause: Underwatered.
+
+Symptom: Musy and discolored leaves. Cause: Overwatered.
+
+### Toxicity
+Non-toxic.
 
 ## Aloe
 
 ## Spearmint
+### Sunlight
+Full sun. Tolerates some shade, especially in hot areas.
+
+### Soil
+Well draining, moist, nutrient-rich soil.
+
+### pH
+6.5 to 7. Will tolerat some outside this range.
+
+### Pot/Repotting
+
+### Water
+Moist soil with adequate drainage. If soil feel dry, add water. Best to water in morning.
+
+### Humidity
+Like some humidity.
+
+### Temperature
+Can handle some heat.
+
+### Food
+every month during growing season.
+
+### Problems
+Symptom: yellow spots on leaves with brown or black spots. Cause: Fungal infection. Replace plant.
+
+### Toxicity
+Non-toxic.
