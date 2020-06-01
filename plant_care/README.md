@@ -12,7 +12,9 @@ Anything
 
 ### Problems
 Symptom: Leaves turn yellow and drop. Cause: Overwatered
+
 Symptom: Wilting while potting mix is dry. Cause: Underwatering
+
 Symptom: Soft or black stems. Cause: Rot or root disease.
 
 ### Toxicity
