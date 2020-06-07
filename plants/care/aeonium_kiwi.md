@@ -11,7 +11,7 @@ Half-strength liquid fertilizer monthly during growing season.
 ## Soil
 Well draining soil
 
-pH of 6 to 7
+pH: 6 to 7
 
 ## Temperature
 65 to 75 degrees.
