@@ -39,4 +39,4 @@ TODO
 
 [Crassula Perforata (String of Buttons)](crassula_perforata.md)
 
-[Calathea XXX](calathea_xxx.md)
+[Calathea Makoyana](calathea_makoyana.md)
