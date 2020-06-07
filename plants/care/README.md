@@ -37,8 +37,6 @@ Repot in spring or summer. Before the cold months.
 
 [Rhodiola Pachyclados (Silver Gem Stonecrop)](rhodiola_pachyclados.md)
 
-TODO
-
 [Crassula Perforata (String of Buttons)](crassula_perforata.md)
 
 [Calathea Makoyana](calathea_makoyana.md)
