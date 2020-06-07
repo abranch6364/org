@@ -6,19 +6,21 @@ Full sun in areas that don't get extremely hot. Needs protection from afternoon 
 ## Water
 If top layer of soil feels dry, add water. Not drought-tolerant.
 
+## Food
+Apply fertilizer after flowering or use compost
+
 ## Soil
 Well draining.
 
-pH of 6.0 to 7. Will tolerat some outside this range.
+pH: 6.0 to 7. Will tolerat some outside this range.
 
 ## Temperature
 10-15 Degrees.
 
+Hardiness: 8
+
 ## Humidity
 Like some humidity.
-
-## Food
-Apply fertilizer after flowering or use compost
 
 ## Pot/Repotting
 Repot when not holding water due to soil/root ratio.
