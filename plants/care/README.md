@@ -11,7 +11,7 @@ Repot in spring or summer. Before the cold months.
 ### Mealy Bug
 
 # Specific Plant Care
-[Golden Pothos](golden_pothos.md)
+[Epipremnum Aureum (Golden Pothos)](epipremnum_aureum.md)
 
 [Zamioculcas Zamiifolia (ZZ Plant)](zamioculcas_zamiifolia.md)
 
