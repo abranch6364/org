@@ -1,27 +1,35 @@
 # Pelargonium 'Vancouver Centennial' (Stellar Geranium)
 ## Sunlight
-Filtered/Partial Sun.
+Partial/Full sun
 
 ## Water
-Let dry between watersing.
+Water when top inch or so in dry. Drought-tolerant.
 
 ## Food
-Once a year in Spring.
+Feed monthly during growing season.
 
 ## Soil
-pH: 6 to 7.
+Well draining, but not very particular
+
+pH: 6-8.
 
 ## Temperature
-Hardiness: 10
+Hardiness: 9b
 
 ## Humidity
-Dry.
 
 ## Pot/Repotting
-Every few years.
+
+## Pruning
+Remove spent flower spikes.
 
 ## Toxicity
 Toxic.
 
+## Pruning
+Prune if they get really leggy.
+
 ## Problems
-Symptom: brown leaves. Cause: Too much sun.
+Sympotom: Yellow leaves Cause: too low humitiy or not enough water or to low light.
+
+Heat can also stop from blooming.
