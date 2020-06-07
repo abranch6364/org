@@ -19,7 +19,7 @@ Repot in spring or summer. Before the cold months.
 
 [Aeonium Kiwi](aeonium_kiwi.md)
 
-[Aloe](aloe.md)
+[Aloe Vera](aloe_vera.md)
 
 [Mentha Spicata (Spearmint)](mentha_spicata.md)
 
