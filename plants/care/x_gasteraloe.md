@@ -1,37 +1,27 @@
 # X Gasteraloe
 ## Sunlight
+Filtered/Partial Sun.
 
 ## Water
-Allow top to become dry at top between watering. Tolerates a little dry better than very wet.
+Let dry between watersing.
 
 ## Food
-Feed with balanced liquid fertilizer a few times from April to August
+Once a year in Spring.
 
 ## Soil
-Well draining potting mix.
-
 pH: 6 to 7.
 
 ## Temperature
-60-75 degrees. No lower than 45 degrees.
-
-Hardiness: 9-10
+Hardiness: 10
 
 ## Humidity
-Average house humidity. Mist in dry conditions
+Dry.
 
 ## Pot/Repotting
-Repot when root bound.
+Every few years.
 
 ## Toxicity
 Toxic.
 
 ## Problems
-Symptom: Leaves turn yellow and drop. Some is normal. Cause: Overwatered
-
-Symptom: Wilting while potting mix is dry. Cause: Underwatering
-
-Symptom: Brown leaf tips. Cause: Dry air.
-
-Symptom: Leaves turn brown. Cuase: Overwatering probably, especially if leaflet feels damp.
-
+Symptom: brown leaves. Cause: Too much sun.
