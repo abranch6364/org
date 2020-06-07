@@ -14,7 +14,10 @@ Well draining soil
 pH of 6 to 7
 
 ## Temperature
-65 to 75 degrees. Lowest of 20 degrees.
+65 to 75 degrees.
+
+## Hardiness
+9-11
 
 ## Humidity
 Dry
