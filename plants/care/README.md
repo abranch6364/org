@@ -21,7 +21,7 @@ Repot in spring or summer. Before the cold months.
 
 [Aloe](aloe.md)
 
-[Spearmint](spearmint.md)
+[Mentha Spicata (Spearmint)](mentha_spicata.md)
 
 [Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
 
