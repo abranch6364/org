@@ -11,7 +11,7 @@ Feed twice a year with slow-release fetilizer. Do not fertilize in the winter.
 ## Soil
 Loose, well-draining potting mix. Loamy soil amended with peat moss.
 
-pH of 6-7
+pH: 6-7
 
 ## Temperature
 70 to 80 degrees.
