@@ -1,4 +1,4 @@
-# Aloe
+# Aloe Vera
 ## Sunlight
 
 Bright, indirect usnlight.
