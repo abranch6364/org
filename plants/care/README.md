@@ -33,11 +33,11 @@ Repot in spring or summer. Before the cold months.
 
 [Pelargonium Zonale (Zonal Geranium)](pelargonium_zonale.md)
 
-TODO
-
 [Euphorbia Milii (Crown of Thorns)](euphorbia_milii.md)
 
-[Rhodiola Pachyclados](rhodiola_pachyclados.md)
+[Rhodiola Pachyclados (Silver Gem Stonecrop)](rhodiola_pachyclados.md)
+
+TODO
 
 [Crassula Perforata (String of Buttons)](crassula_perforata.md)
 
