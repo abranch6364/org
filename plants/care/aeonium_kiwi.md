@@ -5,13 +5,13 @@ Full to partial direct or indirect sunlight
 ## Water
 Let top few inches of soil dry between watering. Little to no water in the summer.
 
+## Food
+Half-strength liquid fertilizer monthly during growing season.
+
 ## Soil
 Well draining soil
 
 pH of 6 to 7
-
-## Food
-Half-strength liquid fertilizer monthly during growing season.
 
 ## Temperature
 65 to 75 degrees. Lowest of 20 degrees.
