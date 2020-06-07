@@ -13,7 +13,7 @@ Repot in spring or summer. Before the cold months.
 # Specific Plant Care
 [Golden Pothos](golden_pothos.md)
 
-[ZZ Plant](zz_plant.md)
+[Zamioculcas Zamiifolia (ZZ Plant)](zamioculcas_zamiifolia.md)
 
 [Dracaena Marginata](dracaena_marginata.md)
 
@@ -22,3 +22,6 @@ Repot in spring or summer. Before the cold months.
 [Aloe](aloe.md)
 
 [Spearmint](spearmint.md)
+
+[Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
+
