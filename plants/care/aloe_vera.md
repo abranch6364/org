@@ -11,7 +11,7 @@ Only feed in spring and summer for balanced houseplant mix at 1/2 strength, aprr
 ## Soil
 Well draining
 
-pH of 7.0 - 8.5
+pH: 7.0 - 8.5
 
 ## Temperature
 55 - 80 degrees.
