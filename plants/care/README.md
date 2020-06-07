@@ -23,5 +23,20 @@ Repot in spring or summer. Before the cold months.
 
 [Mentha Spicata (Spearmint)](mentha_spicata.md)
 
+TODO
+
 [Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
 
+[X Gasteraloe] (x_gasteraloe.md)
+
+[Pelargonium 'Vancouver Centennial' (Stellar Geranium)] (pelargonium_vc.md)
+
+[Pelargonium Zonale (Zonal Geranium)] (pelargonium_zonale.md)
+
+[Euphorbia Milii (Crown of Thorns)] (euphorbia_milii.md)
+
+[Rhodiola Pachyclados] (rhodiola_pachyclados.md)
+
+[Crassula Perforata (String of Buttons)] (crassula_perforata.md)
+
+[Calathea XXX] (calathea_xxx.md)
