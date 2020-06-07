@@ -1,4 +1,4 @@
-# ZZ Plant
+# Zamioculcas Zamiifolia  (ZZ Plant)
 ## Sunlight
 Bright indirect light, but will do fine in low light. Avoid direct sunlight.
 
