@@ -25,8 +25,6 @@ Repot in spring or summer. Before the cold months.
 
 [Trachelospermum Jasminoides (Star Jasmine)](trachelospermum_jasminoides.md)
 
-TODO
-
 [Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
 
 [X Gasteraloe](x_gasteraloe.md)
@@ -34,6 +32,8 @@ TODO
 [Pelargonium 'Vancouver Centennial' (Stellar Geranium)](pelargonium_vc.md)
 
 [Pelargonium Zonale (Zonal Geranium)](pelargonium_zonale.md)
+
+TODO
 
 [Euphorbia Milii (Crown of Thorns)](euphorbia_milii.md)
 
