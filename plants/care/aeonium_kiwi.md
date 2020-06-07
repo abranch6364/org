@@ -16,8 +16,7 @@ pH of 6 to 7
 ## Temperature
 65 to 75 degrees.
 
-## Hardiness
-9-11
+Hardiness: 9-11
 
 ## Humidity
 Dry
