@@ -11,7 +11,7 @@ Repot in spring or summer. Before the cold months.
 ### Mealy Bug
 
 # Specific Plant Care
-
+[Golden Pothos](golden_pothos.md)
 ## ZZ Plant
 ### Sunlight
 Bright indirect light, but will do fine in low light. Avoid direct sunlight.
