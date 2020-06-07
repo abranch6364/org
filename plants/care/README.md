@@ -12,6 +12,7 @@ Repot in spring or summer. Before the cold months.
 
 # Specific Plant Care
 [Golden Pothos](golden_pothos.md)
+[ZZ Plant](zz_plant.md)
 
 ## Dracaena Marginata
 ### Sunlight
