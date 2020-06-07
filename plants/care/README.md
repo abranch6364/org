@@ -23,6 +23,7 @@ Repot in spring or summer. Before the cold months.
 
 [Mentha Spicata (Spearmint)](mentha_spicata.md)
 
+[Trachelospermum Jasminoides (Star Jasmine)] (trachelospermum_jasminoides.md)
 TODO
 
 [Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
