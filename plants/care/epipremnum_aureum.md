@@ -1,4 +1,4 @@
-# Golden Pothos
+# Epipremnum Aureum (Golden Pothos)
 ## Sunlight
 Medium to Low indirect light. No intense direct sun. More variegation in higher light.
 
