@@ -1,4 +1,4 @@
-# Spearmint
+# Mentha Spicata (Spearmint)
 ## Sunlight
 Full sun. Tolerates some shade, especially in hot areas.
 
