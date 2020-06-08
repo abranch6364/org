@@ -21,13 +21,10 @@ Hardiness: 9-12
 ## Pot/Repotting
 
 ## Pruning
-Remove spent flower stalks.
+Prune if they get really leggy. Remove spent flower stalks.
 
 ## Toxicity
 Toxic.
-
-## Pruning
-Prune if they get really leggy.
 
 ## Problems
 Sympotom: Yellow leaves Cause: too low humitiy or not enough water or to low light.
