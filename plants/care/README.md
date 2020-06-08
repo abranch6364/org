@@ -40,3 +40,5 @@ Repot in spring or summer. Before the cold months.
 [Crassula Perforata (String of Buttons)](crassula_perforata.md)
 
 [Calathea Makoyana](calathea_makoyana.md)
+
+[Ocimum Basilicum (Sweet Basil)](ocimum_basilicum.md)
