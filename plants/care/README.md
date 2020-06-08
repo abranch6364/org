@@ -46,6 +46,10 @@ A plant might not be getting enough sunlight if one or more of the following sym
 
 If the plant is getting too much sunlight it can become scorched, bleached, and limp.
 
+## Watering
+
+## Soil
+
 ## Repotting
 Repot in spring or summer. Before the growing season starts.
 
@@ -56,6 +60,9 @@ Repot in spring or summer. Before the growing season starts.
 ### Spider Mite
 
 ### Mealy Bug
+
+## Disease
+
 
 # Specific Plant Care
 [Epipremnum Aureum (Golden Pothos)](specific_care/epipremnum_aureum.md)
