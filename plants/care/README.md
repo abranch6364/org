@@ -1,6 +1,43 @@
 # General Plant Care
+## Light
+
+There are many considerations when it comes to light.
+
+Temperature: In extremely hot regions the general classifications of sunlight requirments may not be directly applicable. For example, some plants might need to be protected from the intense, hot, afternoon sun, even if they prefer "full sun".
+
+Time of day of light: Morning light is cooler and less intese than afternoon light. Plants that like shade often prefer morning light.
+
+### General Classifications
+
+Full-Sun: At least 6 hours of direct sunlight a day. The more the better.
+
+Partial Sunlight / Light Shade: 4 to 6 hours of direct sunlight a day.
+
+Partial Shade: 2 hours of direct sunlight a day. Or half a day of indirect light.
+
+Full Shade/ Low Light: No direct sunlight. Indirect sunlight is still needed.
+
+### Signs of lighting problems
+A plant might not be getting enough sunlight if one or more of the following symptoms are present.
+
+* Plants turn pale green, yellow, or white. Less chlorophyll is not produced when lacking sufficent light.
+
+* Plant stems become long and thin ("leggy"). The plant is attempting to find a light source.
+
+* Long spaces between leaf nodes on stems.
+
+* Plant droping leaves.
+
+* Variegated plants return to solid green.
+
+* Plants losing color.
+
+* Flowering plants not producing buds.
+
+If the plant is getting too much sunlight it can become scorched, bleached, and limp.
+
 ## Repotting
-Repot in spring or summer. Before the cold months.
+Repot in spring or summer. Before the growing season starts.
 
 ## Pests
 
