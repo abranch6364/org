@@ -11,36 +11,36 @@ Repot in spring or summer. Before the cold months.
 ### Mealy Bug
 
 # Specific Plant Care
-[Epipremnum Aureum (Golden Pothos)](epipremnum_aureum.md)
+[Epipremnum Aureum (Golden Pothos)](specific_care/epipremnum_aureum.md)
 
-[Zamioculcas Zamiifolia (ZZ Plant)](zamioculcas_zamiifolia.md)
+[Zamioculcas Zamiifolia (ZZ Plant)](specific_care/zamioculcas_zamiifolia.md)
 
-[Dracaena Marginata](dracaena_marginata.md)
+[Dracaena Marginata](specific_care/dracaena_marginata.md)
 
-[Aeonium Kiwi](aeonium_kiwi.md)
+[Aeonium Kiwi](specific_care/aeonium_kiwi.md)
 
-[Aloe Vera](aloe_vera.md)
+[Aloe Vera](specific_care/aloe_vera.md)
 
-[Mentha Spicata (Spearmint)](mentha_spicata.md)
+[Mentha Spicata (Spearmint)](specific_care/mentha_spicata.md)
 
-[Trachelospermum Jasminoides (Star Jasmine)](trachelospermum_jasminoides.md)
+[Trachelospermum Jasminoides (Star Jasmine)](specific_care/trachelospermum_jasminoides.md)
 
-[Hypoestes Phyllostachya (Polka-Dot Plant)](hypoestes_phyllostachya.md)
+[Hypoestes Phyllostachya (Polka-Dot Plant)](specific_care/hypoestes_phyllostachya.md)
 
-[X Gasteraloe](x_gasteraloe.md)
+[X Gasteraloe](specific_care/x_gasteraloe.md)
 
-[Pelargonium 'Vancouver Centennial' (Stellar Geranium)](pelargonium_vc.md)
+[Pelargonium 'Vancouver Centennial' (Stellar Geranium)](specific_care/pelargonium_vc.md)
 
-[Pelargonium Zonale (Zonal Geranium)](pelargonium_zonale.md)
+[Pelargonium Zonale (Zonal Geranium)](specific_care/pelargonium_zonale.md)
 
-[Euphorbia Milii (Crown of Thorns)](euphorbia_milii.md)
+[Euphorbia Milii (Crown of Thorns)](specific_care/euphorbia_milii.md)
 
-[Rhodiola Pachyclados (Silver Gem Stonecrop)](rhodiola_pachyclados.md)
+[Rhodiola Pachyclados (Silver Gem Stonecrop)](specific_care/rhodiola_pachyclados.md)
 
-[Crassula Perforata (String of Buttons)](crassula_perforata.md)
+[Crassula Perforata (String of Buttons)](specific_care/crassula_perforata.md)
 
-[Calathea Makoyana](calathea_makoyana.md)
+[Calathea Makoyana](specific_care/calathea_makoyana.md)
 
-[Ocimum Basilicum (Sweet Basil)](ocimum_basilicum.md)
+[Ocimum Basilicum (Sweet Basil)](specific_care/ocimum_basilicum.md)
 
-[Rosmarinus Officinalis (Rosemary)](rosmarinum_officinalis.md)
+[Rosmarinus Officinalis (Rosemary)](specific_care/rosmarinum_officinalis.md)
