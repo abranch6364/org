@@ -98,3 +98,5 @@ Repot in spring or summer. Before the growing season starts.
 [Ocimum Basilicum (Sweet Basil)](specific_care/ocimum_basilicum.md)
 
 [Rosmarinus Officinalis (Rosemary)](specific_care/rosmarinum_officinalis.md)
+
+[Aglaonema (Chinese Evergreen)](specific_care/aglaonema.md)
