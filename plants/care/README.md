@@ -42,3 +42,5 @@ Repot in spring or summer. Before the cold months.
 [Calathea Makoyana](calathea_makoyana.md)
 
 [Ocimum Basilicum (Sweet Basil)](ocimum_basilicum.md)
+
+[Rosmarinus Officinalis (Rosemary)](rosmarinum_officinalis.md)
