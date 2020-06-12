@@ -48,7 +48,9 @@ If the plant is getting too much sunlight it can become scorched, bleached, and 
 
 ## Watering
 
-## Soil
+[Light](general_care/light.md)
+
+[Soil](general_care/soil.md)
 
 ## Repotting
 Repot in spring or summer. Before the growing season starts.
