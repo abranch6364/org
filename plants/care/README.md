@@ -56,3 +56,5 @@ Repot in spring or summer. Before the growing season starts.
 [Rosmarinus Officinalis (Rosemary)](specific_care/rosmarinum_officinalis.md)
 
 [Aglaonema (Chinese Evergreen)](specific_care/aglaonema.md)
+
+[Chamaedorea (Bamboo Palm)](specific_care/chamaedorea.md)
