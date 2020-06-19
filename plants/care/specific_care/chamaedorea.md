@@ -6,7 +6,7 @@ Indirect light
 Water when top 1/3 to 1/2 of soil is dry.
 
 ## Food
-Monthly
+Monthly during growing season.
 
 ## Soil
 Well draining, rich.
