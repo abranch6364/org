@@ -58,3 +58,5 @@ Repot in spring or summer. Before the growing season starts.
 [Aglaonema (Chinese Evergreen)](specific_care/aglaonema.md)
 
 [Chamaedorea (Bamboo Palm)](specific_care/chamaedorea.md)
+
+[Kalanchoe](specific_care/kalanchoe.md)
