@@ -19,6 +19,13 @@ Repot in spring or summer. Before the growing season starts.
 
 ## Disease
 
+# Orchid Plant Care
+
+[Water]
+
+[Light]
+
+[Potting Medium]
 
 # Specific Plant Care
 
