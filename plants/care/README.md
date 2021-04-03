@@ -1,6 +1,6 @@
 # General Plant Care
 
-## Watering
+[Water](general_care/water.md)
 
 [Light](general_care/light.md)
 
