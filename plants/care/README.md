@@ -64,4 +64,4 @@ Repot in spring or summer. Before the growing season starts.
 
 ## Orchids
 
-[Habenaria Medusa] (specific_care/orchids/habenaria_medusa.md)
+[Habenaria Medusa](specific_care/orchids/habenaria_medusa.md)
