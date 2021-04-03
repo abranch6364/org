@@ -22,6 +22,12 @@ Repot in spring or summer. Before the growing season starts.
 
 # Specific Plant Care
 
+[Quick Care Spreadsheet](https://docs.google.com/spreadsheets/d/1ULmWxVjPexua-Ws1oYMhQruf9Vn_xaHFswboQjD7fCg/edit?usp=sharing)
+
+## Detailed Care
+
+### Ornamentals
+
 [Epipremnum Aureum (Golden Pothos)](specific_care/epipremnum_aureum.md)
 
 [Zamioculcas Zamiifolia (ZZ Plant)](specific_care/zamioculcas_zamiifolia.md)
@@ -62,6 +68,6 @@ Repot in spring or summer. Before the growing season starts.
 
 [Kalanchoe](specific_care/kalanchoe.md)
 
-## Orchids
+### Orchids
 
 [Habenaria Medusa](specific_care/orchids/habenaria_medusa.md)
