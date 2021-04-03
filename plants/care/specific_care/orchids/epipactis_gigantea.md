@@ -12,7 +12,7 @@ Normal amounts during growing season
 Terrestrial potting medium. Good drainage
 
 ## Temperature
-Hardiness Zone: 5-10
+Hardiness: Zone 5-10
 
 ## Humidity
 
