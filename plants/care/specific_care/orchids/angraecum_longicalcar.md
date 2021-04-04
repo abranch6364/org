@@ -1,6 +1,6 @@
 # Angraecum longicalcar
 
-[Source](https://travaldo.blogspot.com/2018/09/angraecum-longicalcar-orchid-plant-care-and-culture.html)
+[source](https://travaldo.blogspot.com/2018/09/angraecum-longicalcar-orchid-plant-care-and-culture.html)
 
 ## Sunlight
  Angraecum longicalcar needs a light level of 30000-45000 lux (partial shade to partial sun). Light should be filtered or diffused, and plants should not be exposed to direct midday sun. Plants will not bloom without good light. Strong air movement should be provided at all times.
