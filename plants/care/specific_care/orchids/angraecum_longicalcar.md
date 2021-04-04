@@ -1,7 +1,7 @@
 # Angraecum longicalcar
 
 ## Sunlight
- Angraecum longicalcar needs a light level of 30000-45000 lux (Part Shade to Part Sun). Light should be filtered or diffused, and plants should not be exposed to direct midday sun. Plants will not bloom without good light. Strong air movement should be provided at all times.
+ Angraecum longicalcar needs a light level of 30000-45000 lux (partial shade to partial sun). Light should be filtered or diffused, and plants should not be exposed to direct midday sun. Plants will not bloom without good light. Strong air movement should be provided at all times.
 
 ## Water
 Rainfall is moderate to heavy from late spring to early autumn. Water heavily while actively growing. Water should be reduced in autumn after new growths mature. 
