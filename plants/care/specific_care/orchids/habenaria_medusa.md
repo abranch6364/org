@@ -1,4 +1,6 @@
 # Habenaria Medusa
+[source](https://travaldo.blogspot.com/2018/05/habenaria-medusa-care-and-culture.html)
+
 ## Sunlight
 Full Shade, Part Shade
 
