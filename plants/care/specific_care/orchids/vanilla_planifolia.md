@@ -1,6 +1,6 @@
 # Vanilla planifolia
 
-[source](https://www.logees.com/grow_vanilla)
+[Source](https://www.logees.com/grow_vanilla)
 
 ## Sunlight
 Partial Sun. Avoid direct hot mid-day sun.
