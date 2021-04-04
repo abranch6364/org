@@ -34,16 +34,23 @@ Repot in spring or summer. Before the growing season starts.
 ## Detailed Care
 
 ### Ornamentals
+[Aeonium Kiwi](specific_care/aeonium_kiwi.md)
 
-[Epipremnum Aureum (Golden Pothos)](specific_care/epipremnum_aureum.md)
+[Aglaonema (Chinese Evergreen)](specific_care/aglaonema.md)
 
-[Zamioculcas Zamiifolia (ZZ Plant)](specific_care/zamioculcas_zamiifolia.md)
+[Aloe Vera](specific_care/aloe_vera.md)
+
+[Calathea Makoyana](specific_care/calathea_makoyana.md)
+
+[Chamaedorea (Bamboo Palm)](specific_care/chamaedorea.md)
+
+[Crassula Perforata (String of Buttons)](specific_care/crassula_perforata.md)
 
 [Dracaena Marginata](specific_care/dracaena_marginata.md)
 
-[Aeonium Kiwi](specific_care/aeonium_kiwi.md)
+[Epipremnum Aureum (Golden Pothos)](specific_care/epipremnum_aureum.md)
 
-[Aloe Vera](specific_care/aloe_vera.md)
+[Euphorbia Milii (Crown of Thorns)](specific_care/euphorbia_milii.md)
 
 [Mentha Spicata (Spearmint)](specific_care/mentha_spicata.md)
 
@@ -57,24 +64,20 @@ Repot in spring or summer. Before the growing season starts.
 
 [Pelargonium Zonale (Zonal Geranium)](specific_care/pelargonium_zonale.md)
 
-[Euphorbia Milii (Crown of Thorns)](specific_care/euphorbia_milii.md)
-
 [Rhodiola Pachyclados (Silver Gem Stonecrop)](specific_care/rhodiola_pachyclados.md)
-
-[Crassula Perforata (String of Buttons)](specific_care/crassula_perforata.md)
-
-[Calathea Makoyana](specific_care/calathea_makoyana.md)
 
 [Ocimum Basilicum (Sweet Basil)](specific_care/ocimum_basilicum.md)
 
 [Rosmarinus Officinalis (Rosemary)](specific_care/rosmarinum_officinalis.md)
 
-[Aglaonema (Chinese Evergreen)](specific_care/aglaonema.md)
-
-[Chamaedorea (Bamboo Palm)](specific_care/chamaedorea.md)
-
 [Kalanchoe](specific_care/kalanchoe.md)
+
+[Zamioculcas Zamiifolia (ZZ Plant)](specific_care/zamioculcas_zamiifolia.md)
 
 ### Orchids
 
-[Habenaria Medusa](specific_care/orchids/habenaria_medusa.md)
+[Angraecum longicalcar](specific_care/orchids/angraecum_longicalcar.md)
+
+[Epipactis gigantea](specific_care/orchids/epipactis_gigantea.md)
+
+[Habenaria medusa](specific_care/orchids/habenaria_medusa.md)
