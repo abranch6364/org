@@ -81,3 +81,5 @@ Repot in spring or summer. Before the growing season starts.
 [Epipactis gigantea](specific_care/orchids/epipactis_gigantea.md)
 
 [Habenaria medusa](specific_care/orchids/habenaria_medusa.md)
+
+[Vanilla planifolia](specific_care/orchids/vanilla_planifolia.md)
