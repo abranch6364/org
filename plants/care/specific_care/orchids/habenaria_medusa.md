@@ -16,7 +16,7 @@ the substrate must always remain very wet. When the stem dies in autumn, the wat
 Low amounts during growing season
 
 ## Medium
-Standard Orchid Mix. Large enough pot for multiplication of tubers
+Standard Coarse Orchid Mix. Large enough pot for multiplication of tubers
 
 ## Temperature
 60-75 degrees in growing phase
