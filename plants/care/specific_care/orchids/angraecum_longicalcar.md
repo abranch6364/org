@@ -24,8 +24,6 @@ Winter: 73F average during day. 50F average during night
 70-75% in summer and autumn, dropping to 60-65% for about 3 months in late winter and early spring.
 
 ## Pot/Repotting
-Probably best grown in shallow, well-drained pots or baskets. Repotting should be done just as new roots start to grow. This enables the plant to become reestablished in the shortest possible time.
-
 Limit repotting as the roots do not like to be distrubed.
  
 ## Toxicity
