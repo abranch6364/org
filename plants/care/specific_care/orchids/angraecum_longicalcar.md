@@ -13,7 +13,7 @@ Significantly reduce watering in winter, but don't let go without water for long
 1/4-1/2 recommended strength, applied weekly when plants are actively growing. You can use a high-nitrogen fertilizer from spring to midsummer, then switch to one high in phosphates in late summer and autumn. No fertilizer during the winter.
 
 ## Medium
-Use a coarse medium such as bark.
+Use a coarse medium such as bark. Roots dislike being distrubed so another option is lava rock to limit need to repot.
 
 ## Temperature
 Summer: 82F average during day. 62F average during night.
@@ -25,8 +25,11 @@ Winter: 73F average during day. 50F average during night
 
 ## Pot/Repotting
 Probably best grown in shallow, well-drained pots or baskets. Repotting should be done just as new roots start to grow. This enables the plant to become reestablished in the shortest possible time.
+
+Limit repotting as the roots do not like to be distrubed.
  
 ## Toxicity
 ???
 
 ## Problems
+If roots are distrubed it can set back plant growth by years.
