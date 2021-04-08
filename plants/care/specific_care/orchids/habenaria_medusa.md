@@ -13,7 +13,7 @@ substrate has dried almost completely. Only when the rosette of leaves has forme
 the substrate must always remain very wet. When the stem dies in autumn, the watering is suspended, the substrate is allowed to dry completely.
 
 ## Food
-Low amounts during growing season
+Low amounts during growing season. 1/4 of normal recommended amount every couple of weeks.
 
 ## Medium
 Standard Coarse Orchid Mix. Large enough pot for multiplication of tubers
