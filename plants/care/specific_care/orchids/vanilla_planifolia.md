@@ -13,13 +13,13 @@ Significantly reduce watering in winter, but don't let go without water for long
 Fertilize at standard rates every other watering during the summer. Occasionally flush with fresh water.
 
 ## Medium
-Standard Orchid mix
+Semi-Terrestrial Orchid mix at base. Bark/wood/sphagnum moss for arial roots on trellis.
 
 ## Temperature
 Perfers 70F-90F during the day. Keep above 60F.
 
 ## Humidity
-
+~80%
 
 ## Pot/Repotting
 Probably best grown in shallow, well-drained pots or baskets. Repotting should be done just as new roots start to grow. This enables the plant to become reestablished in the shortest possible time.
