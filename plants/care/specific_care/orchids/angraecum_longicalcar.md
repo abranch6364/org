@@ -8,8 +8,7 @@
 ## Water
 In its natural habitat, rainfall is moderate to heavy from late spring to early autumn. Averages then drop rather abruptly in mid-autumn at the beginning of the dry season, that lasts about 5 months until late winter or early spring.
 
-Water heavily while actively growing. Water should be reduced in autumn after new growths mature. Good drainage is required though as it does not like to remain wet. 
-Significantly reduce watering in winter, but don't let go without water for long periods. Water should be increased somewhat if leaves shrivel or show signs of stress.
+Let the potting medium dry out mostly before watering. Significantly reduce watering in winter, but don't let go without water for long periods. Water should be increased somewhat if leaves shrivel or show signs of stress.
 
 ## Food
 1/4-1/2 recommended strength, applied weekly when plants are actively growing. You can use a high-nitrogen fertilizer from spring to midsummer, then switch to one high in phosphates in late summer and autumn. No fertilizer during the winter.
