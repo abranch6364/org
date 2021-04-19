@@ -1,3 +1,4 @@
+Beginner
 olive
 juniper
 pomegranate
@@ -8,3 +9,7 @@ birch
 yaupon holly
 buttonwood (protection below 45)
 ficus (protection below 45)
+
+
+Intermediate
+Japanese Black Pines
